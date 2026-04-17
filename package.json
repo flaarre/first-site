@@ -1,0 +1,26 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstsite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaarre/first-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/flaarre/first-site/issues"
+  },
+  "homepage": "https://github.com/flaarre/first-site#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.0",
+    "globals": "^17.5.0"
+  }
+}
